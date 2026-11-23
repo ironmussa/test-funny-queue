@@ -1,0 +1,7 @@
+{
+  "name": "test-funny-queue",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Test repository for funny's issue factory: merging through GitHub's merge queue",
+  "scripts": { "test": "node --test" }
+}
